@@ -1,0 +1,8 @@
+{
+  "Host": "dummy",
+  "Domain": "example.com",
+  "Role": "web",
+  "Environment": "dev",
+  "Path": "c:\\inetpub\\wwwroot",
+  "Share": "\\\\dummy.example.com\\c$\\inetpub\\wwwroot"
+}
