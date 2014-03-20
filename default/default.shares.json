@@ -1,0 +1,12 @@
+[
+    { "Path" : "c:\\inetpub\\wwwroot", "Share" : "c$\\inetpub\\wwwroot", "Role" : "web" },
+    { "Path" : "c:\\inetpub\\wwwroot", "Share" : "wwwroot", "Role" : "web" },
+
+    { "Path" : "c:\\sites", "Share" : "sites", "Role" : "web" },
+    { "Path" : "c:\\sites", "Share" : "c$\\sites", "Role" : "web" },
+    { "Path" : "c:\\sites", "Share" : "sites$", "Role" : "web" },
+
+    { "Path" : "c:\\services", "Share" : "services", "Role" : "svc" },
+    { "Path" : "c:\\services", "Share" : "c$\\services", "Role" : "svc" },
+    { "Path" : "c:\\services", "Share" : "services$", "Role" : "svc" }
+]
